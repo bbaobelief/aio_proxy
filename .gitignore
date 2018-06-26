@@ -1,0 +1,7 @@
+.ven
+
+# Pycharm
+.idea/
+
+# Python
+*.py[co]
