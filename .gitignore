@@ -6,4 +6,5 @@
 # Python
 *.py[co]
 
-*.pkl[.bak]
+*.pkl
+*.bak
