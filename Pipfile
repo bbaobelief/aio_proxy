@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 aiohttp = "*"
 requests = "*"
+selenium = "==2.48.0"
+lxml = "*"
+"beautifulsoup4" = "*"
+uvloop = "*"
+tqdm = "*"
+simplejson = "*"
 
 [dev-packages]
 
