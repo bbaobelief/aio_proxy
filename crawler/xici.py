@@ -119,6 +119,7 @@ def main():
     res = []
     for i in result:
         res.extend(i)
+        print(i)
    
     with open('ip.pkl', 'wb+') as f:
         pickle.dump(res, f)

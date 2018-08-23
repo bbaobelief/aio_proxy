@@ -12,6 +12,8 @@ lxml = "*"
 uvloop = "*"
 tqdm = "*"
 simplejson = "*"
+rq = "*"
+rq-dashboard = "*"
 
 [dev-packages]
 
